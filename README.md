@@ -1,6 +1,6 @@
 ## Welcome to My Portfolio 
 
-Over the years I've really loved to pick up my camera and take pictures to try and remember the beautiful memories of life. 
+Over the years, I've really loved to pick up my camera and take pictures to try and remember the beautiful memories of life. 
 
 I hope that as you go on through my website, you enjoy what you are able to enjoy my work. 
 
