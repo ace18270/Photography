@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio 
 
-You can use the [editor on GitHub](https://github.com/ace18270/henlo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Over the years I've really loved to pick up my camera and take pictures to try and remember the beautiful memories of life. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hope that as you go on through my website, you enjoy what you are able to enjoy my work. 
 
-### Markdown
+### Photos
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
