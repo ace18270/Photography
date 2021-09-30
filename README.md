@@ -21,5 +21,5 @@ As a person, food is one of my major sources of entertainment, so of course I sp
 
 
 ### More? More Photos!
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If any of my photos and stories seem to intrigue you, feel free to view this website I made a couple years ago of my portfolio:
+https://ace18270.wixsite.com/photography
