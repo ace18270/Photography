@@ -6,10 +6,10 @@ I hope that as you go on through my website, you enjoy what you are able to enjo
 
 ### Photos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The main subject of most of my photos are photography. I enjoy taking photos of people, but when I can, I find it best to try and capture the marvels of the world
+Here is a picture from one of my trips to China:
 
-```markdown
-Syntax highlighted code block
+![IMG_2059](https://user-images.githubusercontent.com/91549634/135475148-67fb2cd6-5ffe-4180-bca5-926ee7d97c75.jpeg)
 
 # Header 1
 ## Header 2
